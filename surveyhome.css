@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    font-size: large;
+}
+
+nav
+{
+   float:left;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+main
+{
+    float:left;
+    width:50%;
+    height: auto;
+}
+
+article{
+    float: left;
+    color:black;
+    background-color: azure;
+    height:auto;
+
+
+}
+aside
+{
+    font-size: 13px;
+    font-style: italic;
+    background-color:bisque;
+}
+footer
+{
+    clear:both;
+    color:black;
+    border-right-style: dashed;
+}
+
